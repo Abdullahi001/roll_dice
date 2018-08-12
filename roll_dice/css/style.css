@@ -1,0 +1,26 @@
+body{
+   min-height: 100vh;
+   display: flex;
+   align-items: center;
+   justify-content: center;
+   background-color: blue;
+}
+
+
+.dice{
+  float: left;
+  width: 32px;
+  background: #f5f5f5;
+  border: #999 1px solid;
+  padding: 10px;
+  font-size: 24px;
+  text-align: center;
+  margin: 15px;
+}
+
+
+
+#status{
+   margin-left: 100px;
+   clear: left;
+}
